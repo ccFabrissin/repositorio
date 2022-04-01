@@ -9,4 +9,4 @@ const concesionaria = {
    }
 ;
 
-console.log(concesionaria.buscarAuto);
+console.log(concesionaria.buscarAuto());
